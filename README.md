@@ -10,13 +10,13 @@ To run ts file, you need install ts-node:
 
 ### `npm install -g ts-node`
 
-Usage:
+##Usage:
 
-# Execute a script as `node` + `tsc`.
+Execute a script as `node` + `tsc`.
 
 ts-node script.ts
 
-Example:
+##Example:
 ts-node .\CustomAPIRequest.ts
 
 To run html file, double click this file.
